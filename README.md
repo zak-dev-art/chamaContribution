@@ -165,4 +165,4 @@ Generate graphs of contributions
 
 Build a web version using Flask
 
-# Deveoper : Zakayo Kagunda
+# Developer : Zakayo Kagunda
